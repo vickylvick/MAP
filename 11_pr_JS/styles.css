@@ -1,0 +1,13 @@
+* {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: black;
+    padding: 0px 100px 0px 0px;
+    color:yellow;
+}
+.change{ 
+    text-align: right;
+    line-height: 1.5
+}
